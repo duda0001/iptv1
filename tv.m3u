@@ -1,4 +1,12 @@
-#EXTM3U
+#EXTM3U name="Цифровое ТВ NETBYNET" type="mp2t" dlna_extras="mpeg_ts_sd" url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
+
+# Плейлист подготовлен: ForstWoof <iptv@forstwoof.ru>
+
+# Информация для Kodi/XBMC:
+#   URL плейлиста: https://raw.githubusercontent.com/Forst/iptv/master/TV.m3u
+#   Базовый URL для логотипов: http://beaver.lan.forstwoof.ru/tv_logos/
+#   URL телепрограммы: http://www.teleguide.info/download/new3/xmltv.xml.gz
+
 #EXTINF:0,5 Канал
 http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8?codec=mpeg4
 #EXTINF:0,1+1
