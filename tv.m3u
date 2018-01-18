@@ -1,4 +1,4 @@
 #EXTINF:0 tvg-name="Первый_канал" tvg-logo="1tv.png",Первый канал
-http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8?codec=mpeg4
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
 #EXTINF:0,1+1
-http://api.tv.ipnet.ua/api/v1/manifest/1293295500.m3u8?codec=mpeg4
+http://api.tv.ipnet.ua/api/v1/manifest/1293295500.m3u8
